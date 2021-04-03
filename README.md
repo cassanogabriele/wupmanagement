@@ -1,2 +1,2 @@
-# wup-management
+# wupmanagement
 partie admin de w-up
